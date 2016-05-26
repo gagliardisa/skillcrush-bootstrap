@@ -1,0 +1,24 @@
+body, html{
+	background-color:#f9f9f9;
+}
+h1, body, .jumbotron h1, .navbar-default .navbar-brand {
+	color:#5F9FA1;
+}
+/* =====Navigation ===== */
+.navbar{
+	margin-bottom:0px;
+}
+
+.jumbotron p {
+	color:#5F9FA1;
+}
+.btn{
+	border:none;
+}
+.btn-primary{
+	background-color:#B1DCAF;
+	color:#355455;
+}
+.btn-primary:hover{
+	background-color:#5F9FA1;
+}
